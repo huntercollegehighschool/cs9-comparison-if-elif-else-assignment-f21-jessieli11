@@ -15,9 +15,6 @@ Enter another number: 5
 The smallest number is 2
 '''
 
-
-
-
 number = int(input("Enter a number: "))
 smallest = number
 
